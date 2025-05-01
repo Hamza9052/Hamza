@@ -21,7 +21,7 @@ Hello World!, I'm Hamza, a Moroccan Android Developer👋
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hamza9052&icon=2&color=0)](https://visitcount.itsvg.in)
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ1cHR0aW1yMTh3MHViZXB1NDFtNGhqbHZkaGI3c3dpZWp0cXo0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KtPjuhm119ggU/giphy.gif" width="120" height="120">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ1cHR0aW1yMTh3MHViZXB1NDFtNGhqbHZkaGI3c3dpZWp0cXo0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KtPjuhm119ggU/giphy.gif" width="100" height="80">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza9052/Hamza/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza9052/Hamza/output/github-snake.svg" />
